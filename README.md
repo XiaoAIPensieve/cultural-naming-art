@@ -12,7 +12,10 @@ Transform a foreign name and identity into a Chinese cultural masterpiece
 
 > Give any foreign tourist a **complete Chinese cultural identity** — in one conversation.
 > Names, poems, seals, landscapes, and portraits, all powered by AI.
+**Made with 墨 (ink) and ❤️ by [XiaoAIPensieve](https://github.com/XiaoAIPensieve)**
 
+*"每一个名字，都是一首诗的开始。"*
+*"Every name is the beginning of a poem."*
 ---
 
 ## ✨ What It Does
